@@ -1,0 +1,6 @@
+{
+  "name": "PIYUSHRETENTION — Digital Asset Store",
+  "description": "Premium editing assets, motion graphics, sound effects, and creative resources for video editors and filmmakers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
